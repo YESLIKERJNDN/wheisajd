@@ -1,0 +1,40 @@
+
+
+
+{
+  "Owner": [
+    {"id": "4985582336"}
+  ],
+  "Private": [
+    {"id": "4960068282"},
+    {"id": "4899951833"},
+    {"id": "4816892911"},
+    {"id": "4931123293"},
+    {"id": "4967428276"}
+  ],
+  "Booster": [
+    {"id": "1491640729"},
+    {"id": "4852452175"},
+    {"id": "4740013223"},
+    {"id": "4973903878"},
+    {"id": "4942744446"},
+    {"id": "4957242425"},
+    {"id": "4951617509"},
+    {"id": "4970760307"},
+  ],
+  "tags": [
+    {"userid": "4962496993", "tag": "SALAD", "color": "purple"},
+    {"userid": "4946005783", "tag": "CONJECTURED", "color": "purple"},
+    {"userid": "1491640729", "tag": "First booster (Kioshiii)", "color": "blue"},
+    {"userid": "4899951833", "tag": "LIXUNES", "color": "yellow"},
+    {"userid": "4967428276", "tag": "KINGKOYAA", "color": "blue"},
+    {"userid": "4816892911", "tag": "AnimeWare Owner", "color": "purple"},
+    {"userid": "4852452175", "tag": "vam", "color": "yellow"},
+    {"userid": "4740013223", "tag": "Nightmare is overused", "color": "cyan"},
+    {"userid": "4931123293", "tag": "AC MOD", "color": "purple"},
+    {"userid": "4953955513", "tag": "COOL GUY", "color": "pink"},
+    {"userid": "4973903878", "tag": "Abuser", "color": "purple"},
+    {"userid": "4957242425", "tag": "VAPE PRIVATE", "color": "purple"},
+    {"userid": "4970760307", "tag": "HORIZON", "color": "red"}
+  ]
+}
